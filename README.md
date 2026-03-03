@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">📍 Texas, US<br>📧 Email: muneebkh.js@gmail.com<br>📱 Contact: 918 350 8658<br>🔗 LinkedIn: https://www.linkedin.com/in/muneeb-khan-04790b3b0/<br>💻 GitHub: https://github.com/muneebappdev/muneebappdev</h4>
+<h4 align="left">📍 Texas, US<br>📧 Email: muneebapp.developer@gmail.com<br>📱 Contact: 918 350 8658<br>🔗 LinkedIn: https://www.linkedin.com/in/muneeb-khan-04790b3b0/<br>💻 GitHub: https://github.com/muneebappdev/muneebappdev</h4>
 
 ###
 
